@@ -16,6 +16,7 @@
         <module>payment8002</module>
         <module>zookeeper-payment8004</module>
         <module>consumer-zk-payment80</module>
+        <module>consumer-feign-order80</module>
     </modules>
     <packaging>pom</packaging>
     <name>SpringCloud</name>
